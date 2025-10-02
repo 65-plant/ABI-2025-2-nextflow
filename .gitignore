@@ -1,0 +1,4 @@
+# Ignore Nextflow logs and temp folders
+.nextflow*
+work/
+output/
